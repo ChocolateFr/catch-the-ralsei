@@ -1,4 +1,4 @@
-# Catch the boykisser
+# Catch the Ralsei
 ![screenshot](assets/wallpaper.png)
 
 ```bash
